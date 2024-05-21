@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Poltanek
 🔭 I’m currently working on projects in Python, C# and JS
 
 
