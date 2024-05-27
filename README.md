@@ -1,5 +1,7 @@
 # 💫 Poltanek
 🔭 I’m currently working on projects in Python, C#, C++ and JS
+🔭 Primarily focusing on creating a Pixel Spaceship Roguelike Game
+if interested you may email me or send me a message via linkedin
 
 
 ## 🌐 Social
