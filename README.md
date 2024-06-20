@@ -1,5 +1,5 @@
 # 💫 Poltanek
-🔭 I’m currently working on projects in Python, C#, C++ and JS
+🔭 I’m currently working on projects in Python, C# and JS
 
 
 ## 🌐 Social
