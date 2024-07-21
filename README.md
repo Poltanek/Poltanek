@@ -1,6 +1,8 @@
 # 💫 Poltanek
-🔭 I’m currently working on projects in Python, C# and JS
+🔭 Started out as a programming hobbist to an aspiring data scientist. 
 
+My aims: 
+To learn C, C++ and improve my skills in Python and its libs
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adam-tanweer-ab8082274/) 
