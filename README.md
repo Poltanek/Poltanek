@@ -1,4 +1,4 @@
-# 💫 Poltanek
+# 💫 Adam Tanweer
 🔭 Started out as a programming hobbist to an aspiring data scientist. 
 
 My aims: 
