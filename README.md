@@ -2,7 +2,7 @@
 🔭 Started out as a programming hobbist to an aspiring data scientist. 
 
 My aims: 
-To learn C, C++ and improve my skills in Python and its libs
+To learn & improve on skills in SQL, Python and Java
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adam-tanweer-ab8082274/) 
