@@ -1,5 +1,5 @@
 # 💫 Adam Tanweer
-🔭 Started out as a programming hobbist to an aspiring data scientist. 
+🔭 Started out as a programming hobbist
 
 My aims: 
 To learn & improve on skills in SQL, Python and Java
