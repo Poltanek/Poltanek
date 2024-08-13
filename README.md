@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poltanek&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
