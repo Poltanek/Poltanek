@@ -1,23 +1,23 @@
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=poltanek&theme=radical&title=Commits,Repositories,Experience,Followers"  />
 </div>
 
-<div align="center">
+<div align="left">
 
-### About Me: 
+### About Me
 Started out as a programming hobbyist, currently a computer science student moving into his 2nd year and specialising in Artificial Intelligence
 
-### My aims: 
+### My aims
 To learn & improve on skills in SQL, Python, and Java
 
 </div>
-<div align="center">
+<div align="left">
 
-### My Tech Stack:
+### My Tech Stack
 
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
