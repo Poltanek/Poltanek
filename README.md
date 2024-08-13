@@ -1,21 +1,25 @@
-<div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=poltanek&theme=radical&title=Commits,Repositories,Experience,Followers"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
 <div align="center">
 
   ### > Hey there! I am Poltanek
+
+<div align="center">
+  <p>
+    Started out as a programming hobbyist, currently a computer science student moving into his 2nd year specialising in Artificial Intelligence
+  </p>
+</div>
+
+<p>    &nbsp;</p>
+
 </div>
 <div align="left">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
-
-<div align="center">
-  <p>
-    awdawdawd
-  </p>
 </div>
 
 # &nbsp;
@@ -50,11 +54,9 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
+<div align="center">
 
-### About Me
-Started out as a programming hobbyist, currently a computer science student moving into his 2nd year specialising in Artificial Intelligence
-
-### My aims
+### > My Aims
 To learn & improve on skills in SQL, Python, and Java
 
 </div>
