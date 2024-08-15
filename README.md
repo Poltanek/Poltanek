@@ -57,7 +57,7 @@
 <div align="center">
 
 ### > My Aims
-To learn & improve on skills in SQL, Python, and Java
+To learn & improve on skills in MySQL, Python, and Java
 
 </div>
 
