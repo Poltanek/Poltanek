@@ -1,6 +1,5 @@
 
-![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/b675164e-27a6-43e1-9d85-78e50c1b7311)
-
+![bc6c171eee288a2f1e124c749303b24e](https://github.com/user-attachments/assets/1d58155b-61dc-4c65-8cf5-ae777d16893d)
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
