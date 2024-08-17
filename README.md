@@ -1,25 +1,43 @@
 
+![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/user-attachments/assets/b675164e-27a6-43e1-9d85-78e50c1b7311)
+
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
+</div>
+
 <div align="left">
 
   ### > Hey there! I am Poltanek
 
 <div align="left">
-
-</div>
-
   <p>
     Started out as a programming hobbyist, currently a computer science student moving into his 2nd year specialising in Artificial Intelligence
   </p>
 </div>
 
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="23" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="23" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="23" alt="medium logo"  />
+</div>
+
+
+<div align="left">
+
+### > My Aims
+To learn & improve on skills in MySQL, Python, and Java
+
+</div>
+
+###
+
 <p>
   &nbsp;
 </p>
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
-
-<div align="left">
   
 | **Python**       | **Java**         | **C**            | **C++**          | **JavaScript**   | **HTML5**        | **CSS3**         |
 |------------------|------------------|------------------|------------------|------------------|------------------|------------------|
@@ -39,20 +57,12 @@
 
 </div>
 
-
-<!--
 <div align="center">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
--->
-
-
-### > My Aims
-To learn & improve on skills in MySQL, Python, and Java
+  
+# My Github Stats
 
 </div>
 
-# &nbsp;
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poltanek&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
