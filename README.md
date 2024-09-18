@@ -27,7 +27,10 @@
 <div align="left">
 
 ### > My Aims
-To learn & improve on skills in MySQL, Python, and Java
+To learn & improve on skills in SQL, Python and Java
+
+Currently working on creating a RobCo TUI Puzzle Game from Fallout 4 in Python using either asciimatics, Curses, etc with whatever I consider to code it in. 
+If you have any ideas let me know!
 
 </div>
 
