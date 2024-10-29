@@ -11,7 +11,7 @@
 
 <div align="left">
   <p>
-    Started out as a programming hobbyist, currently a computer science student moving into his 2nd year specialising in Artificial Intelligence
+    Started out as a programming hobbyist, currently a computer science student in his 2nd year creating AI and Web App projects
   </p>
 </div>
 
