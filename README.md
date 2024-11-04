@@ -11,7 +11,7 @@
 
 <div align="left">
   <p>
-    Started out as a programming hobbyist, currently a computer science student in his 2nd year creating AI and Web App projects
+    Started out as a programming hobbyist in VB.NET, currently a computer science student in his 2nd year creating AI and Web App projects
   </p>
 </div>
 
