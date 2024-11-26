@@ -98,6 +98,9 @@ If you have any ideas let me know!
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poltanek.Poltanek&right_color=purple&left_text=Visitors"  />
 </div>
 
+![6afe15139791265 6237ba8d4cedd](https://github.com/user-attachments/assets/95956351-3c86-41cc-9bd6-70d84e03d08b)
+
+
 ###
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
