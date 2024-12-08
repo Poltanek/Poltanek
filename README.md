@@ -28,14 +28,15 @@
 <div align="left">
 
 ### > My Aims
-To learn & improve on skills in SQL, Python and Java
+To learn & improve on skills in SQL, Python, Java and JavaScript
 
-* Currently working on creating a RobCo TUI Puzzle Game from Fallout 4 in Python using either asciimatics, Curses, etc with whatever I consider to code it in. 
-If you have any ideas let me know!
+* Currently working on creating an app to support people with mental health 
 
 * Working on a web app bookstore using MERN stack and waterfall/agile methodology
 
 * Chat Application System in C# to apply into Networking
+
+* GPU Programming and Learning C using external units to a device
 
 
 
