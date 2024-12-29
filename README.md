@@ -9,17 +9,26 @@
 
 <div align="left">
   <p>
-    Started out as a programming hobbyist and a complete beginner to now currently a computer science student in his 2nd year creating AI, Web App projects and seeking out hackathon competitions. 
+    Started out as a programming hobbyist in 2020 and a complete beginner to now currently a computer science student in his 2nd year creating AI, Web App projects and seeking out hackathon competitions within the UK and across Europe. 
   </p>
 </div>
 
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="23" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="23" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="23" alt="medium logo"  />
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/adam-tanweer/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="23" alt="instagram logo" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="23" alt="twitter logo" />
+  </a>
+  <a href="https://medium.com/@yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="23" alt="medium logo" />
+  </a>
 </div>
+
 
 
 <div align="left">
