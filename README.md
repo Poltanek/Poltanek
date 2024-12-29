@@ -1,14 +1,11 @@
 
-![6afe15139791265 6237ba8d4cedd](https://github.com/user-attachments/assets/95956351-3c86-41cc-9bd6-70d84e03d08b)
-
-
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
 </div>
 
 <div align="left">
 
-  ### > Hey there! I am Poltanek
+  ### > Hey there! My alias name is Poltanek. 
 
 <div align="left">
   <p>
