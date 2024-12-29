@@ -41,6 +41,7 @@ To learn & improve on skills in SQL, Python, Java and JavaScript
 
 * GPU Programming and Learning C using external units to a device
 
+<img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
 
 
 </div>
