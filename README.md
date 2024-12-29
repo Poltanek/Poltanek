@@ -1,20 +1,10 @@
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
-</div>
+![1](https://github.com/user-attachments/assets/a288fd61-88f0-4abe-a8ad-e8a51402e6e0)
 
-<div align="left">
-
-  ### > Hey there! My alias name is Poltanek. 
-
-<div align="left">
-  <p>
-    Started out as a programming hobbyist in 2020 and a complete beginner to now currently a computer science student in his 2nd year creating AI, Web App projects and seeking out hackathon competitions within the UK and across Europe. 
-  </p>
-</div>
+###
 
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/adam-tanweer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo" />
   </a>
@@ -26,12 +16,25 @@
   </a>
 </div>
 
+<div align="center">
+<p> I began my programming journey in 2020 as a complete beginner, exploring coding out of curiosity. Over time, my hobby turned into a passion, and I’ve since learned key programming languages like Python, JavaScript, and Java. This passion led me to pursue a degree in Computer Science, where I’m now in my second year, focusing on areas like AI, web development, and data structures. </p> <p> Alongside my studies, I’m building real-world projects in AI and full-stack web development, with a focus on creating software that addresses real-world issues. I’m also actively participating in hackathons across the UK and Europe, which have sharpened my problem-solving, teamwork, and leadership skills. </p> <p> Looking ahead, I aim to further develop my expertise through internships, open-source contributions, and working with cutting-edge technologies like machine learning and cloud computing. Ultimately, I want to contribute to impactful projects and be part of teams that shape the future of technology. </p>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Poltanek&theme=radical&column=5&row=1&margin-w=8&margin-h=6&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
+</div>
 
 <div align="left">
 
-### > My Aims
+### > Website / Web App Projects
 To learn & improve on skills in SQL, Python, Java and JavaScript
+<div>
+  <a>
+    <p>
+      
+    </p>
+  </a>
+</div>
 
 * Currently working on creating an app to support people with mental health 
 
