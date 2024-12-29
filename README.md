@@ -3,7 +3,6 @@
 
 ###
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-tanweer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="23" alt="linkedin logo" />
@@ -14,6 +13,8 @@
   <a href="https://medium.com/@yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="23" alt="medium logo" />
   </a>
+
+  [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 </div>
 
 <div align="center">
@@ -26,30 +27,19 @@
 
 <div align="left">
 
-### > Website / Web App Projects
-To learn & improve on skills in SQL, Python, Java and JavaScript
-<div>
-  <a>
-    <p>
-      
-    </p>
-  </a>
-</div>
+### > Website & WebApp Projects
+- [Bookstore-WebApp](https://github.com/Poltanek/Book-Store-WebApp) - Full-stack website using MERN stack and integrating a server-side database using monolithic application structure. The website is called Midnight Manuscripts and is supposed to be deployed using Microsoft Azure. 
+- [Web-Terminal-Showcase](https://github.com/Poltanek/web-terminal-showcase) - A web-based terminal application simulating CLI experience and users can interact with the terminal, input commands and receive responses as if they were working in a real shell environment 
+- [Mern-Blog-WebApp](https://github.com/Poltanek/mern-blog-WebApp) - MERN stack blog using yarn for package management 
+- [Portfolio-Website](https://github.com/Poltanek/Portfolio-Website) - Using vite for lite static website project builds, react as my javascript framework using nodejs and netlify for app deployment of static sites 
 
-* Currently working on creating an app to support people with mental health 
 
-* Working on a web app bookstore using MERN stack and waterfall/agile methodology
-
-* Chat Application System in C# to apply into Networking
-
-* GPU Programming and Learning C using external units to a device
-
-<img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
+-->
 
 </div>
 
-###
+### > Tech Stack
 
 <p>
   &nbsp;
