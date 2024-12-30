@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="23" alt="medium logo" />
   </a>
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Poltanek.Poltanek&right_color=purple&left_text=Visitors"  />
+  
   [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 </div>
 
@@ -41,9 +43,13 @@
 - [Sorting-Algorithm-Visualizer](https://github.com/Poltanek/Sorting-Algorithm-Visualizer) - This algorithm visualizer leverages the Tkinter Canvas widget to provide an interactive and intuitive platform for understanding how algorithms work. By animating the step-by-step execution of algorithms, the visualizer illustrates changes in data structures, interactions between algorithmic components 
 - [Portfolio-Website](https://github.com/Poltanek/Portfolio-Website) - Using vite for lite static website project builds, react as my javascript framework using nodejs and netlify for app deployment of static sites
 - [Pathfinding_Algorithm](https://github.com/Poltanek/Pathfinding_Algorithm) - A* Pathfinding Algorithm, a widely-used search algorithm for finding the shortest path in a grid or maze. The project is optimized for performance using a priority queue and a heuristic function for efficient navigation.
+- [Maze-Code](https://github.com/Poltanek/Maze-Code) - This program is a maze generation and navigation system written in Python, utilizing the NumPy library. It is designed to create various types of mazes, visualize them in a readable format, and allow simulation of movements within the maze.
 
 ### > C# Projects
 - [School-management-system](https://github.com/Poltanek/School-management-system) - A ready made console project showing evidence of using C# to a coding standard through adding, deleting and updating users to grade calculations and updating them through a txt output 
+
+### > Oracle APEX
+- [database-management-analysis](https://github.com/Poltanek/database-management-analysis) - To design, implement, test and demonstrate elements of relational database applications – as well as provide evidence for database analysis
 
 <!-- <img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
 -->
@@ -51,10 +57,6 @@
 </div>
 
 ### > Tech Stack
-
-<p>
-  &nbsp;
-</p>
 
 | **Python**       | **Java**         | **JS**           | **React**        |
 |------------------|------------------|------------------|------------------|
@@ -81,37 +83,18 @@
 |------------------|------------------|------------------|------------------|--------------------|--------------------|--------------------|-------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /> |
 
+###
 
 </div>
 
-<div align="center">
-  
-# My Github Stats
-
-</div>
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Poltanek&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poltanek&theme=neon&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Poltanek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poltanek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poltanek&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false&custom_title=Adam%20Tanweer's%20GitHub%20Activity%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Poltanek.Poltanek&right_color=purple&left_text=Visitors"  />
-</div>
-
-/* ![6afe15139791265 6237ba8d4cedd](https://github.com/user-attachments/assets/95956351-3c86-41cc-9bd6-70d84e03d08b)
-*/
-
-###
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
