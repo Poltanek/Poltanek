@@ -34,6 +34,17 @@
 - [Portfolio-Website](https://github.com/Poltanek/Portfolio-Website) - Using vite for lite static website project builds, react as my javascript framework using nodejs and netlify for app deployment of static sites 
 
 
+### > Python Projects
+- [House-Value-Estimator](https://github.com/Poltanek/House-Value-Estimator) - I plan to use the House Sales in King County, USA dataset to train a model that predicts house prices based on features such as the number of rooms and other property details.
+- [Horsepower-car-prediction](https://github.com/Poltanek/Horsepower-Car-Prediction) - This script trains a linear regression model to predict horsepower using features like MPG, cylinders, weight, acceleration, and model year. The model achieves an MSE of 250.23 and an R² score of 0.82, explaining 82% of the variance. 
+- [gift-wrapping-application](https://github.com/Poltanek/gift-wrapping-application) - Began coding in python by creating my very own gift wrapping application dedicated towards just learning python as well as connecting a functioning database to the program 
+- [Sorting-Algorithm-Visualizer](https://github.com/Poltanek/Sorting-Algorithm-Visualizer) - This algorithm visualizer leverages the Tkinter Canvas widget to provide an interactive and intuitive platform for understanding how algorithms work. By animating the step-by-step execution of algorithms, the visualizer illustrates changes in data structures, interactions between algorithmic components 
+- [Portfolio-Website](https://github.com/Poltanek/Portfolio-Website) - Using vite for lite static website project builds, react as my javascript framework using nodejs and netlify for app deployment of static sites
+- [Pathfinding_Algorithm](https://github.com/Poltanek/Pathfinding_Algorithm) - A* Pathfinding Algorithm, a widely-used search algorithm for finding the shortest path in a grid or maze. The project is optimized for performance using a priority queue and a heuristic function for efficient navigation.
+
+### > C# Projects
+- [School-management-system](https://github.com/Poltanek/School-management-system) - A ready made console project showing evidence of using C# to a coding standard through adding, deleting and updating users to grade calculations and updating them through a txt output 
+
 <!-- <img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
 -->
 
