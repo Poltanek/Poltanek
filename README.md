@@ -49,7 +49,14 @@
 - [School-management-system](https://github.com/Poltanek/School-management-system) - A ready made console project showing evidence of using C# to a coding standard through adding, deleting and updating users to grade calculations and updating them through a txt output 
 
 ### > Oracle APEX
-- [database-management-analysis](https://github.com/Poltanek/database-management-analysis) - To design, implement, test and demonstrate elements of relational database applications – as well as provide evidence for database analysis
+- [database-management-analysis](https://github.com/Poltanek/database-management-analysis) - To design, implement, test and demonstrate elements of relational database applications – as well as provide evidence for database analysis 
+
+### > Network Security/Design 
+
+- [HQ-Site-Network](https://github.com/Poltanek/HQ-and-Remote-Site-Network) - Designed and securely configured using Cisco Packet Tracer, applying L2 VLAN Security, Site-to-site VPN, Appropriate Access Control Lists (ACL), Port Security and Basic Device Security.
+
+- [Cicso-Packet-Tracer](https://github.com/Poltanek/Cisco-Packet-Tracer) - Whilst learning Cisco Packet Tracer I began to create and work on certain projects that helped me design and secure my HQ Operated Network with a site to site established network connection with VLANs and Internet setup with security steps necessary to prevent malicious attackers.
+
 
 <!-- <img src="https://raw.githubusercontent.com/Poltanek/Poltanek/output/snake.svg" alt="Snake animation" />
 -->
