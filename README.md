@@ -31,7 +31,7 @@
 - [Bookstore-WebApp](https://github.com/Poltanek/Book-Store-WebApp) - Full-stack website using MERN stack and integrating a server-side database using monolithic application structure. The website is called Midnight Manuscripts and is supposed to be deployed using Microsoft Azure. 
 - [Web-Terminal-Showcase](https://github.com/Poltanek/web-terminal-showcase) - A web-based terminal application simulating CLI experience and users can interact with the terminal, input commands and receive responses as if they were working in a real shell environment 
 - [Mern-Blog-WebApp](https://github.com/Poltanek/mern-blog-WebApp) - MERN stack blog using yarn for package management 
-- [Portfolio-Website](https://github.com/Poltanek/Portfolio-Website) - Using vite for lite static website project builds, react as my javascript framework using nodejs and netlify for app deployment of static sites 
+- [MotionSpace](https://github.com/Poltanek/MotionSpace) - Using vite for lite static website project builds, react as my javascript framework and netlify for app deployment of static sites to be usable on IPADS and Desktop 
 
 
 ### > Python Projects
